@@ -20,7 +20,7 @@ int a;
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.activity_main,container);
         a=100;
-        change = "code changed";
+        change = "code not changed this time";
 
         return rootView;
 
