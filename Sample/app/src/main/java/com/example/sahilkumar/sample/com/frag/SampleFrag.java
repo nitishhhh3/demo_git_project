@@ -15,7 +15,7 @@ import com.example.sahilkumar.sample.R;
 public class SampleFrag extends Fragment {
 
 int a;
-    String change ="hello this is demo";
+    String change ="hello this is demo12121212121212";
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.activity_main,container);
